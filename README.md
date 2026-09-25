@@ -1,5 +1,5 @@
-# py-requests-jtml
-requests-jtml的使用
+# py-requests-html
+requests-html的使用
 
 #pip install request-html
 
